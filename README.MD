@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **gokdenizcan2505@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
 <br>
 
 
