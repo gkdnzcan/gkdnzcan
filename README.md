@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working as a **Frontend Web Developer**  
-- 📚 Learning **.NET 8** and improving my backend skills  
 - 👍 In my free time, I usually do sports and play chill games  
 - 🌱 Always exploring new web technologies and frameworks  
 
@@ -30,13 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gkdnzcan&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdnzcan&layout=compact&langs_count=5&theme=radical" height="150" alt="Top Languages"/>
-</p>
-
----
-
-### 🐍 Fun Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gkdnzcan/gkdnzcan/output/snake.svg" alt="Snake Animation" />
 </p>
 
 ---
