@@ -27,8 +27,8 @@
 
 ### 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkdnzcan&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdnzcan&layout=compact&langs_count=5&theme=radical" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gkdnzcan&show_icons=true&count_private=false&include_all_commits=false&theme=radical" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdnzcan&layout=compact&langs_count=5&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
 ---
