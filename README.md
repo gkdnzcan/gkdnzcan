@@ -1,5 +1,5 @@
 <h2 align="center">Hi everyone! I'm Gökdeniz 💻</h2>
-<p align="center">Frontend Web Developer | .NET 8 Learner | Ankara</p>
+<p align="center">Frontend Web Developer | Computer Programmer | Ankara</p>
 
 ---
 
